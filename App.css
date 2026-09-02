@@ -1,0 +1,30 @@
+.header{
+  width: 100 vw;
+  height: 10vw;
+  background-color: black;
+  color: white;
+  font-size: 32px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.footer{
+  width: 100 vw;
+  height: 84vw;
+  background-color: black;
+  color: rgb(89, 185, 56);
+  display: flex;
+}
+.bookstore{
+  width: 100 vw;
+  height: 84vw;
+  background-color: black;
+  color: rgb(89, 185, 56);
+  display: flex;
+}
+.home{
+  width: 100 vw;
+  height: 6vw;
+  background-color: black;
+  color: rgb(96, 190, 224);
+}
